@@ -51,13 +51,13 @@
 
 <h3> 🐍 Contribution Snake</h3>
 <div align="center">
-  <img src="https://github.com/NithinVikas-AV/NithinVikas-AV/blob/main/Snake_game_animation.svg" />
+  <img src="https://github.com/Murali-Krishna-S/Murali-Krishna-S/blob/main/Snake_game_animation.svg" />
 </div>
 
 <hr/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NithinVikas-AV&color=brightgreen&style=flat-square" alt="Profile View Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Murali-Krishna-S&color=brightgreen&style=flat-square" alt="Profile View Counter"/>
 </div>
 
 <hr/>
