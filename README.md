@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=20&duration=2000&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&height=35&lines=Hi+&#128075+Guys+I'm+Nithin+Vikas+AV;M.Sc+Cyber+Security+%7C+&#127891+PSG+College+of+Technology;Interested+in+Problem+Solving+&#128187"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=20&duration=2000&pause=1000&color=87CEEB&center=true&vCenter=true&width=1000&height=35&lines=Hi+&#128075+Guys+I'm+Murali+Krishna+S;M.Sc+Cyber+Security+%7C+&#127891+PSG+College+of+Technology;Interested+in+Problem+Solving+&#128187"/>
   <br/>
 </h1>
 
@@ -34,16 +34,17 @@
 
 <h3> 💻 Workspace Specs </h3>
 <div>
-  <img height="30" src="https://img.shields.io/badge/Lenovo-LOQ-007C73?style=for-the-badge&logo=lenovo&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/HP-Pavilion-007C73?style=for-the-badge&logo=hp&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </div>
+
 
 <hr/>
 
 <h3> 📈 LeetCode Stats </h3>
 <div align="center">
-  <img width="400" align="center" src="https://leetcard.jacoblin.cool/NithinVikasAV?theme=dark&font=Oxygen&ext=heatmap" />
+  <img width="400" align="center" src="https://leetcard.jacoblin.cool/HOAGKAzeEd?theme=dark&font=Oxygen&ext=heatmap" />
 </div>
 
 <hr/>
